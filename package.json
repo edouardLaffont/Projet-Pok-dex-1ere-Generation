@@ -1,0 +1,26 @@
+{
+  "name": "pokedEXpress",
+  "version": "1.0.0",
+  "description": "Apprentis professeurs Chen, j'ai une requête pour vous ! Je souhaiterais un pokédex tout beau, tout neuf !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Nautilus/S04-Revision-pokedEXpress-correction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Nautilus/S04-Revision-pokedEXpress-correction/issues"
+  },
+  "homepage": "https://github.com/O-clock-Nautilus/S04-Revision-pokedEXpress-correction#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}
